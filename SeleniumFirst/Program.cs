@@ -94,7 +94,7 @@ namespace SeleniumFirst
             Thread.Sleep(3000);
 
             
-            PropertiesCollection.driver.FindElement(By.XPath("//*[contains(text(),' ForgeFlex Tools')]")).Click();
+            PropertiesCollection.driver.FindElement(By.XPath("//*[contains(text(),' ForgeFlex Toools')]")).Click();
 
             
            
